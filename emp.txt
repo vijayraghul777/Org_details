@@ -1,0 +1,4 @@
+Emp: 001
+	vijay
+	raghul
+	22
